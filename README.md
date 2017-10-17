@@ -1,6 +1,8 @@
 Cloudhopper SMPP by Twitter 
 ============================
 
+# Cloned for experimental purposes!
+
 This project has moved to https://github.com/fizzed/cloudhopper-smpp
 
 Twitter still uses the library, but its now maintained by [Fizzed, Inc.](http://fizzed.com)
